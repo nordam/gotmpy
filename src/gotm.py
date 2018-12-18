@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+import os
 
 class GOTMSettings():
     def __init__(self, inputfolder, outputfolder, executable):
